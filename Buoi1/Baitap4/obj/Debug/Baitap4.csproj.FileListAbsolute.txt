@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\bin\Debug\Baitap4.exe.config
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\bin\Debug\Baitap4.exe
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\bin\Debug\Baitap4.pdb
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\obj\Debug\Baitap4.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\obj\Debug\Baitap4.exe
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap4\obj\Debug\Baitap4.pdb

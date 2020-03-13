@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap5\bin\Debug\Baitap5.exe.config
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap5\bin\Debug\Baitap5.exe
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap5\bin\Debug\Baitap5.pdb
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap5\obj\Debug\Baitap5.exe
+C:\Users\Admin\Desktop\C#\Buoi1\Baitap5\obj\Debug\Baitap5.pdb
