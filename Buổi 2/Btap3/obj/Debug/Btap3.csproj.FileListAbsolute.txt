@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap3\bin\Debug\Btap3.exe.config
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap3\bin\Debug\Btap3.exe
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap3\bin\Debug\Btap3.pdb
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap3\obj\Debug\Btap3.exe
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap3\obj\Debug\Btap3.pdb

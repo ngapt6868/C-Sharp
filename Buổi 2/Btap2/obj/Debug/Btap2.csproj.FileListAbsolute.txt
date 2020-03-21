@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\obj\Debug\Btap2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\bin\Debug\Btap2.exe.config
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\bin\Debug\Btap2.exe
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\bin\Debug\Btap2.pdb
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\obj\Debug\Btap2.exe
+C:\Users\Admin\Desktop\C#\Buổi 2\Btap2\obj\Debug\Btap2.pdb
